@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MRmikimous
+### Hey there <img src="https://raw.githubusercontent.com/MRmikimous/MRmikimous/master/wave.gif" width="30px">, I'm MRmikimous
+
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning IT-junior specialist
 - 📫 How to reach me, Discord MRmikimous#0030
